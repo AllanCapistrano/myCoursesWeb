@@ -1,7 +1,7 @@
 # myCoursesWeb
 
 <p align="center">
-  <img src="https://i.imgur.com/TqZiXOi.png" alt="myCoursesWeb">
+  <img src="https://i.imgur.com/Q6IWgJe.png" alt="myCoursesWeb">
 </p>
 
 ------------
