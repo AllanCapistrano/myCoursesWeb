@@ -1,7 +1,7 @@
 # myCoursesWeb
 
 <p align="center">
-  <img src="https://i.imgur.com/TqZiXOi.png" alt="myCoursesWeb" width="700px" height="350">
+  <img src="https://i.imgur.com/TqZiXOi.png" alt="myCoursesWeb">
 </p>
 
 ------------
@@ -19,5 +19,4 @@ Este foi um projeto desenvolvido durante o workshop disponibilizado pelo [IEEE U
 ------------
 
 ## Adicionais ##
-
-- A página de criação e edição dos cursos herdam um template, pois as estruturas das mesmas eram bastante semelhantes.
+- A página de criação e edição dos cursos herdam um template, já que a estrutura das mesmas são bastante semelhantes.
