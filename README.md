@@ -19,7 +19,7 @@ Este foi um projeto desenvolvido durante o workshop disponibilizado pelo [IEEE U
 ------------
 
 ## Adicionais ##
-- A página de criação e edição dos cursos herdam um template, já que a estrutura das mesmas são bastante semelhantes.
+- A página de criação e edição dos cursos herdam um template, já que a estrutura das mesmas são bastante semelhantes. [Clique aqui](https://github.com/AllanCapistrano/myCoursesWeb/blob/master/resources/views/layouts/layoutCourseInfo.blade.php) para acessar o arquivo.
 
 ------------
 
